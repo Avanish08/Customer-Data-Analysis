@@ -1,0 +1,801 @@
+CustomerID,City,Segment,SignupDate
+1,Mumbai,Consumer,2022-02-02
+2,Hyderabad,Consumer,2023-08-19
+3,Bengaluru,Consumer,2023-09-02
+4,Hyderabad,Consumer,2023-07-19
+5,Kolkata,Enterprise,2023-07-28
+6,Bengaluru,Consumer,2023-06-03
+7,Bengaluru,Small Business,2023-01-18
+8,Mumbai,Small Business,2022-07-31
+9,Delhi,Small Business,2022-06-27
+10,Bengaluru,Consumer,2022-06-04
+11,Pune,Consumer,2023-06-27
+12,Chennai,Small Business,2023-08-15
+13,Delhi,Consumer,2023-06-07
+14,Mumbai,Consumer,2022-10-05
+15,Delhi,Consumer,2022-11-21
+16,Kolkata,Consumer,2023-01-21
+17,Mumbai,Enterprise,2023-05-08
+18,Bengaluru,Small Business,2022-02-16
+19,Kolkata,Enterprise,2023-05-06
+20,Mumbai,Small Business,2023-01-30
+21,Pune,Consumer,2023-07-18
+22,Kolkata,Small Business,2022-06-18
+23,Delhi,Consumer,2022-02-09
+24,Bengaluru,Small Business,2022-04-28
+25,Kolkata,Consumer,2022-09-07
+26,Mumbai,Consumer,2022-01-21
+27,Bengaluru,Small Business,2022-02-02
+28,Hyderabad,Consumer,2023-11-18
+29,Pune,Small Business,2022-12-20
+30,Bengaluru,Consumer,2022-08-09
+31,Mumbai,Consumer,2022-11-09
+32,Bengaluru,Consumer,2023-10-09
+33,Delhi,Consumer,2022-03-06
+34,Bengaluru,Consumer,2023-09-22
+35,Delhi,Small Business,2023-10-07
+36,Chennai,Consumer,2022-01-13
+37,Hyderabad,Consumer,2022-04-11
+38,Delhi,Enterprise,2022-05-13
+39,Pune,Consumer,2022-12-20
+40,Delhi,Enterprise,2023-05-27
+41,Bengaluru,Small Business,2022-11-12
+42,Delhi,Consumer,2022-03-24
+43,Pune,Consumer,2022-09-26
+44,Delhi,Consumer,2023-10-11
+45,Bengaluru,Consumer,2023-05-11
+46,Hyderabad,Small Business,2022-12-31
+47,Bengaluru,Consumer,2022-01-23
+48,Kolkata,Consumer,2023-10-02
+49,Mumbai,Consumer,2023-09-14
+50,Hyderabad,Consumer,2023-08-03
+51,Bengaluru,Consumer,2022-06-09
+52,Bengaluru,Small Business,2022-03-06
+53,Pune,Consumer,2022-03-28
+54,Bengaluru,Consumer,2023-07-31
+55,Bengaluru,Consumer,2023-11-13
+56,Mumbai,Consumer,2023-09-23
+57,Mumbai,Consumer,2022-05-19
+58,Hyderabad,Small Business,2023-03-14
+59,Bengaluru,Consumer,2022-06-03
+60,Hyderabad,Consumer,2023-09-10
+61,Kolkata,Consumer,2022-07-29
+62,Hyderabad,Enterprise,2022-07-24
+63,Mumbai,Consumer,2022-05-22
+64,Delhi,Consumer,2022-06-23
+65,Pune,Consumer,2023-04-07
+66,Delhi,Consumer,2022-01-05
+67,Kolkata,Consumer,2023-07-29
+68,Kolkata,Enterprise,2022-08-18
+69,Chennai,Consumer,2022-06-15
+70,Bengaluru,Consumer,2022-10-16
+71,Chennai,Consumer,2022-06-02
+72,Mumbai,Consumer,2022-08-21
+73,Delhi,Enterprise,2022-12-04
+74,Bengaluru,Consumer,2023-08-29
+75,Hyderabad,Consumer,2022-09-24
+76,Bengaluru,Consumer,2022-02-16
+77,Mumbai,Consumer,2022-02-27
+78,Delhi,Small Business,2023-05-19
+79,Delhi,Consumer,2023-09-08
+80,Delhi,Consumer,2022-09-21
+81,Mumbai,Small Business,2023-05-20
+82,Bengaluru,Consumer,2023-01-12
+83,Bengaluru,Enterprise,2022-05-26
+84,Hyderabad,Consumer,2022-09-30
+85,Hyderabad,Consumer,2023-04-27
+86,Bengaluru,Small Business,2022-01-14
+87,Bengaluru,Consumer,2023-02-11
+88,Hyderabad,Consumer,2023-09-08
+89,Chennai,Consumer,2023-03-25
+90,Pune,Small Business,2022-03-07
+91,Chennai,Consumer,2022-08-29
+92,Kolkata,Consumer,2023-08-26
+93,Mumbai,Consumer,2023-03-02
+94,Chennai,Consumer,2023-11-03
+95,Delhi,Consumer,2023-05-08
+96,Bengaluru,Small Business,2022-08-29
+97,Hyderabad,Enterprise,2023-05-31
+98,Hyderabad,Consumer,2023-03-13
+99,Mumbai,Consumer,2023-02-01
+100,Pune,Consumer,2022-07-19
+101,Mumbai,Small Business,2022-01-15
+102,Delhi,Consumer,2023-11-19
+103,Chennai,Small Business,2023-04-25
+104,Bengaluru,Small Business,2023-05-22
+105,Pune,Small Business,2023-08-07
+106,Hyderabad,Consumer,2023-03-26
+107,Chennai,Small Business,2023-04-19
+108,Hyderabad,Consumer,2023-06-10
+109,Mumbai,Consumer,2022-05-09
+110,Bengaluru,Consumer,2022-12-15
+111,Bengaluru,Consumer,2022-12-26
+112,Mumbai,Consumer,2022-07-20
+113,Bengaluru,Small Business,2022-03-28
+114,Pune,Small Business,2023-05-12
+115,Chennai,Consumer,2022-04-18
+116,Kolkata,Consumer,2022-03-27
+117,Mumbai,Small Business,2022-01-11
+118,Delhi,Consumer,2022-01-28
+119,Pune,Consumer,2023-02-08
+120,Mumbai,Enterprise,2022-11-18
+121,Delhi,Consumer,2022-04-24
+122,Pune,Consumer,2022-06-14
+123,Mumbai,Consumer,2022-10-15
+124,Hyderabad,Consumer,2022-05-20
+125,Chennai,Consumer,2022-04-25
+126,Mumbai,Small Business,2022-03-06
+127,Bengaluru,Small Business,2022-02-11
+128,  mumbai ,Consumer,2023-01-20
+129,Kolkata,Consumer,2022-10-16
+130,Delhi,Consumer,2022-07-22
+131,Mumbai,Consumer,2022-04-19
+132,Chennai,Consumer,2023-01-27
+133,Kolkata,Consumer,2022-08-11
+134,Mumbai,Small Business,2022-06-07
+135,Bengaluru,Consumer,2023-08-14
+136,Hyderabad,Consumer,2022-11-05
+137,Chennai,Small Business,2023-09-28
+138,Mumbai,Small Business,2023-02-10
+139,Pune,Consumer,2023-06-04
+140,Chennai,Consumer,2022-12-27
+141,Bengaluru,Consumer,2022-11-30
+142,Mumbai,Enterprise,2022-01-04
+143,Mumbai,Consumer,2022-07-08
+144,Delhi,Consumer,2023-07-01
+145,Chennai,Consumer,2023-11-14
+146,Mumbai,Small Business,2023-09-23
+147,Mumbai,Consumer,2023-01-06
+148,Delhi,Consumer,2023-06-29
+149,Mumbai,Small Business,2023-03-05
+150,Mumbai,Consumer,2023-08-17
+151,Mumbai,Consumer,2022-06-03
+152,Bengaluru,Consumer,2023-07-18
+153,Hyderabad,Enterprise,2023-06-13
+154,Bengaluru,Small Business,2022-01-24
+155,,Consumer,2022-10-25
+156,Delhi,Small Business,2022-11-14
+157,Pune,Consumer,2022-04-23
+158,Kolkata,Consumer,2023-02-16
+159,Kolkata,Small Business,2022-08-04
+160,Delhi,Consumer,2023-08-02
+161,Mumbai,Enterprise,2023-10-24
+162,Chennai,Small Business,2023-02-12
+163,Kolkata,Small Business,2022-07-16
+164,Bengaluru,Consumer,2023-05-17
+165,Hyderabad,Consumer,2023-08-28
+166,Chennai,Consumer,2022-10-20
+167,Pune,Small Business,2023-06-03
+168,Chennai,Consumer,2022-03-26
+169,Mumbai,Small Business,2022-01-10
+170,Delhi,Consumer,2023-05-20
+171,Delhi,Small Business,2023-07-25
+172,Mumbai,Small Business,2022-10-20
+173,Kolkata,Small Business,2022-01-24
+174,Mumbai,Consumer,2022-04-05
+175,Pune,Consumer,2023-01-31
+176,Mumbai,Consumer,2022-09-19
+177,Delhi,Consumer,2022-10-09
+178,Bengaluru,Small Business,2023-08-09
+179,Mumbai,Consumer,2023-01-23
+180,Bengaluru,Small Business,2022-08-27
+181,Bengaluru,Consumer,2022-07-19
+182,Delhi,Consumer,2022-02-12
+183,Hyderabad,Small Business,2023-02-03
+184,Mumbai,Enterprise,2022-11-14
+185,Mumbai,Consumer,2023-06-04
+186,Delhi,Small Business,2022-01-06
+187,Delhi,Consumer,2022-02-07
+188,Mumbai,Consumer,2023-05-28
+189,Kolkata,Consumer,2022-06-10
+190,Chennai,Consumer,2022-09-24
+191,Mumbai,Consumer,2022-09-27
+192,Delhi,Enterprise,2023-01-07
+193,Delhi,Small Business,2022-10-26
+194,Bengaluru,Consumer,2023-08-28
+195,Delhi,Small Business,2022-04-27
+196,Bengaluru,Consumer,2023-11-14
+197,Kolkata,Small Business,2022-09-16
+198,Delhi,Consumer,2023-06-09
+199,Pune,Consumer,2022-09-20
+200,Pune,Consumer,2023-11-25
+201,Hyderabad,Consumer,2022-02-03
+202,Mumbai,Consumer,2023-05-26
+203,Hyderabad,Consumer,2022-10-31
+204,Kolkata,Small Business,2022-04-14
+205,Pune,Consumer,2022-04-26
+206,Delhi,Consumer,2023-04-09
+207,Pune,Consumer,2023-07-21
+208,Hyderabad,Consumer,2023-10-27
+209,Pune,Enterprise,2022-11-30
+210,Mumbai,Consumer,2022-01-18
+211,Kolkata,Small Business,2022-06-23
+212,Kolkata,Consumer,2022-03-31
+213,Bengaluru,Small Business,2023-11-27
+214,Pune,Consumer,2023-04-04
+215,Mumbai,Consumer,2022-03-14
+216,Kolkata,Small Business,2022-12-09
+217,Chennai,Small Business,2023-10-28
+218,Pune,Consumer,2023-04-13
+219,Hyderabad,Consumer,2022-09-03
+220,Mumbai,Consumer,2022-07-12
+221,Delhi,Consumer,2023-07-03
+222,Delhi,Enterprise,2022-06-24
+223,Pune,Small Business,2023-05-06
+224,Mumbai,Consumer,2022-12-18
+225,Chennai,Consumer,2023-01-16
+226,Bengaluru,Consumer,2023-06-02
+227,Bengaluru,Consumer,2022-02-17
+228,Mumbai,Consumer,2022-08-04
+229,Hyderabad,Consumer,2023-07-24
+230,Chennai,Enterprise,2023-03-18
+231,Pune,Consumer,2023-03-20
+232,Delhi,Consumer,2022-02-10
+233,Hyderabad,Small Business,2023-10-12
+234,Mumbai,Consumer,2022-01-04
+235,Chennai,Consumer,2023-07-25
+236,Pune,Consumer,2023-01-03
+237,Delhi,Small Business,2023-07-05
+238,Bengaluru,Consumer,2023-04-30
+239,Pune,Consumer,2023-01-24
+240,Delhi,Consumer,2022-11-06
+241,Chennai,Small Business,2022-06-19
+242,Bengaluru,Small Business,2022-02-20
+243,Chennai,Consumer,2022-05-31
+244,Chennai,Enterprise,2023-01-17
+245,Mumbai,Consumer,2023-07-01
+246,Pune,Consumer,2022-01-07
+247,Delhi,Consumer,2023-10-04
+248,Hyderabad,Consumer,2023-02-11
+249,Bengaluru,Consumer,2022-03-17
+250,Bengaluru,Consumer,2023-02-13
+251,Chennai,Enterprise,2022-05-30
+252,Mumbai,Consumer,2023-09-19
+253,Bengaluru,Consumer,2022-10-07
+254,Delhi,Enterprise,2023-04-03
+255,Mumbai,Consumer,2023-05-10
+256,Hyderabad,Consumer,2023-09-26
+257,Pune,Consumer,2022-07-13
+258,Chennai,Consumer,2022-02-02
+259,Pune,Consumer,2022-05-11
+260,Delhi,Consumer,2022-01-15
+261,Kolkata,Consumer,2023-01-28
+262,Mumbai,Consumer,2022-11-09
+263,Mumbai,Consumer,2023-10-12
+264,Hyderabad,Small Business,2022-07-12
+265,Delhi,Small Business,2022-05-24
+266,Delhi,Consumer,2022-03-16
+267,Chennai,Consumer,2023-01-30
+268,Delhi,Small Business,2023-03-29
+269,Chennai,Consumer,2022-04-13
+270,Pune,Small Business,2022-08-06
+271,Delhi,Consumer,2022-10-20
+272,Mumbai,Enterprise,2023-06-01
+273,Delhi,Small Business,2022-03-18
+274,Kolkata,Consumer,2022-03-03
+275,Bengaluru,Consumer,2022-05-28
+276,Mumbai,Consumer,2022-12-08
+277,Delhi,Small Business,2022-02-14
+278,Chennai,Consumer,2022-08-29
+279,Mumbai,Small Business,2022-12-22
+280,Hyderabad,Consumer,2022-08-02
+281,Mumbai,Consumer,2023-07-18
+282,Kolkata,Small Business,2022-05-29
+283,Bengaluru,Consumer,2023-05-05
+284,Mumbai,Enterprise,2023-03-30
+285,Kolkata,Consumer,2023-04-27
+286,Delhi,Consumer,2022-02-14
+287,Hyderabad,Small Business,2022-03-03
+288,Bengaluru,Consumer,2023-01-25
+289,Mumbai,Consumer,2023-10-08
+290,Mumbai,Consumer,2023-03-08
+291,Mumbai,Small Business,2022-12-17
+292,Mumbai,Consumer,2022-05-09
+293,Mumbai,Small Business,2022-08-03
+294,Mumbai,Consumer,2023-10-07
+295,Kolkata,Consumer,2022-10-14
+296,Mumbai,Consumer,2022-09-04
+297,Bengaluru,Enterprise,2022-08-14
+298,Mumbai,Enterprise,2022-10-30
+299,Mumbai,Consumer,2022-02-28
+300,Hyderabad,Consumer,2022-05-16
+301,Kolkata,Enterprise,2022-02-19
+302,Bengaluru,Consumer,2022-10-16
+303,Mumbai,Consumer,2023-08-21
+304,Kolkata,Consumer,2023-06-14
+305,Mumbai,Consumer,2023-06-29
+306,Delhi,Consumer,2023-01-18
+307,Bengaluru,Consumer,2022-01-12
+308,Chennai,Consumer,2022-12-21
+309,Chennai,Consumer,2022-07-27
+310,Pune,Consumer,2022-02-19
+311,Delhi,Consumer,2022-04-30
+312,Chennai,Consumer,2022-09-30
+313,Chennai,Consumer,2022-10-21
+314,Chennai,Consumer,2022-01-21
+315,Hyderabad,Small Business,2023-03-24
+316,Mumbai,Consumer,2022-02-18
+317,Delhi,Consumer,2022-01-02
+318,Bengaluru,Small Business,2022-08-27
+319,Bengaluru,Small Business,2023-04-18
+320,Chennai,Consumer,2023-08-22
+321,Delhi,Consumer,2023-04-17
+322,Pune,Small Business,2022-11-05
+323,Delhi,Small Business,2023-06-02
+324,Hyderabad,Small Business,2023-07-05
+325,Mumbai,Small Business,2023-10-18
+326,Bengaluru,Consumer,2023-01-15
+327,Mumbai,Consumer,2022-12-06
+328,Mumbai,Consumer,2022-05-21
+329,Kolkata,Consumer,2022-04-22
+330,Delhi,Small Business,2022-05-13
+331,Chennai,Consumer,2022-12-30
+332,Bengaluru,Consumer,2022-08-01
+333,Mumbai,Consumer,2022-01-18
+334,Hyderabad,Consumer,2023-09-27
+335,Mumbai,Small Business,2022-12-04
+336,Chennai,Consumer,2022-02-13
+337,Mumbai,Consumer,2022-07-30
+338,Pune,Consumer,2023-07-09
+339,Mumbai,Consumer,2023-07-09
+340,Delhi,Small Business,2022-11-21
+341,Kolkata,Consumer,2022-06-27
+342,Bengaluru,Consumer,2022-03-05
+343,Pune,Enterprise,2023-01-27
+344,Hyderabad,Small Business,2022-11-06
+345,Mumbai,Consumer,2022-06-04
+346,Chennai,Consumer,2023-02-23
+347,Kolkata,Consumer,2023-07-31
+348,Mumbai,Consumer,2022-02-21
+349,Bengaluru,Small Business,2022-02-19
+350,Delhi,Small Business,2023-08-26
+351,Hyderabad,Consumer,2022-08-07
+352,Mumbai,Enterprise,2023-05-04
+353,Bengaluru,Consumer,2022-11-08
+354,Hyderabad,Consumer,2023-04-16
+355,Hyderabad,Consumer,2022-06-03
+356,Mumbai,Small Business,2023-11-22
+357,Chennai,Small Business,2022-06-29
+358,Delhi,Enterprise,2022-12-02
+359,Chennai,Enterprise,2022-06-10
+360,Bengaluru,Consumer,2022-01-22
+361,Mumbai,Consumer,2023-02-15
+362,Hyderabad,Consumer,2022-08-03
+363,Chennai,Consumer,2022-09-30
+364,Hyderabad,Consumer,2022-04-27
+365,  mumbai ,Consumer,2022-06-09
+366,Delhi,Small Business,2022-05-19
+367,Delhi,Consumer,2022-09-05
+368,Mumbai,Consumer,2022-12-22
+369,Bengaluru,Small Business,2023-01-25
+370,Delhi,Consumer,2023-09-09
+371,Delhi,Consumer,2022-11-13
+372,Bengaluru,Small Business,2022-10-19
+373,Delhi,Consumer,2022-11-24
+374,Mumbai,Consumer,2023-06-29
+375,Bengaluru,Consumer,2022-07-09
+376,Delhi,Consumer,2023-01-10
+377,Bengaluru,Small Business,2022-07-02
+378,Kolkata,Enterprise,2023-08-15
+379,Mumbai,Small Business,2023-04-09
+380,Pune,Small Business,2022-07-11
+381,Pune,Consumer,2022-11-06
+382,Delhi,Consumer,2022-09-20
+383,Bengaluru,Enterprise,2023-09-15
+384,Kolkata,Small Business,2023-11-15
+385,Delhi,Consumer,2022-01-24
+386,Hyderabad,Small Business,2022-01-22
+387,Chennai,Consumer,2022-10-19
+388,Delhi,Consumer,2022-04-13
+389,Kolkata,Consumer,2023-04-03
+390,Pune,Enterprise,2023-01-01
+391,Bengaluru,Consumer,2022-10-29
+392,Hyderabad,Enterprise,2022-09-28
+393,Bengaluru,Consumer,2023-09-08
+394,Hyderabad,Small Business,2023-06-13
+395,Delhi,Consumer,2022-07-11
+396,Kolkata,Consumer,2022-11-25
+397,Bengaluru,Small Business,2023-04-22
+398,Delhi,Small Business,2022-02-23
+399,Bengaluru,Small Business,2022-02-16
+400,Chennai,Small Business,2022-10-23
+401,Chennai,Small Business,2023-04-06
+402,Bengaluru,Small Business,2022-09-30
+403,Delhi,Consumer,2023-11-17
+404,Delhi,Enterprise,2022-01-10
+405,Kolkata,Consumer,2022-05-19
+406,Mumbai,Consumer,2022-09-11
+407,Chennai,Enterprise,2022-12-02
+408,Chennai,Consumer,2022-05-03
+409,Delhi,Consumer,2022-01-26
+410,Delhi,Small Business,2023-11-09
+411,,Small Business,2022-09-27
+412,Chennai,Consumer,2022-10-27
+413,Kolkata,Consumer,2022-02-16
+414,Kolkata,Consumer,2022-10-13
+415,Delhi,Consumer,2022-09-09
+416,Mumbai,Small Business,2022-01-20
+417,Bengaluru,Consumer,2023-04-18
+418,Bengaluru,Small Business,2023-03-11
+419,Pune,Small Business,2023-11-10
+420,  mumbai ,Small Business,2023-11-06
+421,Pune,Small Business,2022-08-08
+422,Kolkata,Small Business,2022-02-19
+423,Kolkata,Consumer,2023-07-30
+424,Kolkata,Small Business,2022-07-29
+425,Kolkata,Consumer,2022-12-11
+426,Kolkata,Small Business,2022-06-20
+427,Mumbai,Small Business,2022-09-28
+428,Kolkata,Small Business,2022-05-16
+429,Delhi,Consumer,2023-01-07
+430,Delhi,Consumer,2023-10-06
+431,Bengaluru,Enterprise,2023-03-05
+432,Kolkata,Small Business,2023-08-01
+433,Pune,Consumer,2022-11-05
+434,  mumbai ,Consumer,2022-09-05
+435,Delhi,Small Business,2023-08-03
+436,Kolkata,Small Business,2022-02-20
+437,Chennai,Consumer,2023-09-13
+438,Mumbai,Consumer,2022-06-17
+439,Delhi,Consumer,2023-08-04
+440,Delhi,Consumer,2022-09-18
+441,Mumbai,Consumer,2022-04-26
+442,Pune,Consumer,2022-03-02
+443,Delhi,Small Business,2023-02-12
+444,Pune,Small Business,2022-04-30
+445,Kolkata,Consumer,2023-06-13
+446,Chennai,Small Business,2022-01-01
+447,Mumbai,Consumer,2022-11-17
+448,Mumbai,Consumer,2022-05-30
+449,Bengaluru,Consumer,2022-09-11
+450,Pune,Consumer,2023-06-21
+451,Delhi,Consumer,2023-09-19
+452,Delhi,Enterprise,2022-01-27
+453,Delhi,Consumer,2022-12-05
+454,Mumbai,Consumer,2023-03-31
+455,Chennai,Consumer,2023-07-02
+456,Hyderabad,Consumer,2023-08-03
+457,Bengaluru,Consumer,2022-09-21
+458,Hyderabad,Consumer,2022-10-05
+459,Bengaluru,Consumer,2022-01-19
+460,Bengaluru,Consumer,2022-07-17
+461,Delhi,Consumer,2023-03-06
+462,Bengaluru,Consumer,2022-03-25
+463,Kolkata,Consumer,2022-03-30
+464,Hyderabad,Enterprise,2023-05-13
+465,Chennai,Enterprise,2022-02-10
+466,  mumbai ,Small Business,2022-07-24
+467,Bengaluru,Consumer,2023-04-09
+468,Delhi,Consumer,2022-03-18
+469,Mumbai,Consumer,2022-05-16
+470,Delhi,Small Business,2023-09-21
+471,Mumbai,Consumer,2023-06-11
+472,Delhi,Consumer,2023-07-10
+473,Hyderabad,Consumer,2022-01-06
+474,Hyderabad,Small Business,2022-08-30
+475,Hyderabad,Consumer,2023-02-11
+476,Mumbai,Small Business,2022-09-23
+477,Mumbai,Consumer,2023-08-13
+478,Mumbai,Consumer,2023-03-01
+479,Mumbai,Small Business,2022-05-14
+480,Mumbai,Consumer,2022-06-14
+481,Kolkata,Small Business,2023-01-10
+482,Chennai,Consumer,2023-06-22
+483,Mumbai,Consumer,2023-06-20
+484,Delhi,Consumer,2022-03-20
+485,Kolkata,Small Business,2023-01-17
+486,Pune,Consumer,2022-07-17
+487,Delhi,Enterprise,2022-05-19
+488,Bengaluru,Consumer,2023-08-23
+489,Delhi,Consumer,2023-05-07
+490,Pune,Consumer,2022-12-20
+491,Hyderabad,Consumer,2022-07-19
+492,Bengaluru,Enterprise,2022-03-28
+493,Chennai,Consumer,2022-09-18
+494,Mumbai,Consumer,2023-03-29
+495,Pune,Consumer,2023-04-14
+496,Kolkata,Consumer,2022-12-20
+497,Mumbai,Small Business,2022-06-16
+498,Bengaluru,Consumer,2023-11-22
+499,Pune,Consumer,2023-09-28
+500,Delhi,Consumer,2023-07-31
+501,Kolkata,Small Business,2023-04-15
+502,Bengaluru,Small Business,2023-11-01
+503,Bengaluru,Consumer,2022-01-02
+504,Kolkata,Consumer,2022-08-15
+505,Mumbai,Small Business,2022-03-13
+506,Chennai,Enterprise,2022-07-29
+507,Mumbai,Consumer,2022-04-07
+508,Delhi,Enterprise,2022-06-04
+509,Bengaluru,Consumer,2022-02-07
+510,Bengaluru,Small Business,2023-01-30
+511,Mumbai,Enterprise,2022-07-05
+512,Delhi,Consumer,2023-01-04
+513,Delhi,Small Business,2023-02-24
+514,Kolkata,Consumer,2022-09-01
+515,Kolkata,Small Business,2022-12-10
+516,Pune,Small Business,2023-06-25
+517,Kolkata,Consumer,2023-01-20
+518,Chennai,Consumer,2022-11-19
+519,Delhi,Consumer,2022-12-08
+520,Mumbai,Small Business,2023-02-06
+521,Pune,Consumer,2022-04-11
+522,Delhi,Consumer,2022-03-01
+523,Mumbai,Consumer,2022-12-11
+524,Kolkata,Consumer,2022-03-07
+525,Kolkata,Consumer,2022-01-11
+526,Bengaluru,Small Business,2023-11-21
+527,Pune,Consumer,2022-01-11
+528,Pune,Consumer,2022-06-29
+529,Kolkata,Consumer,2022-07-22
+530,Bengaluru,Consumer,2022-02-06
+531,Pune,Small Business,2023-09-18
+532,Delhi,Consumer,2023-07-13
+533,Delhi,Consumer,2023-02-26
+534,Bengaluru,Consumer,2023-08-18
+535,Delhi,Consumer,2022-11-24
+536,Mumbai,Consumer,2022-06-19
+537,Delhi,Consumer,2022-10-27
+538,Hyderabad,Consumer,2023-11-05
+539,Delhi,Consumer,2022-10-19
+540,Chennai,Consumer,2022-10-23
+541,Hyderabad,Consumer,2023-04-28
+542,Pune,Consumer,2022-01-23
+543,Chennai,Enterprise,2023-04-02
+544,Mumbai,Consumer,2022-11-18
+545,Mumbai,Enterprise,2023-05-10
+546,Kolkata,Consumer,2022-12-17
+547,Kolkata,Enterprise,2022-08-26
+548,Mumbai,Consumer,2022-06-25
+549,Hyderabad,Consumer,2023-10-08
+550,Mumbai,Consumer,2023-02-18
+551,Mumbai,Small Business,2023-01-07
+552,Mumbai,Consumer,2023-07-03
+553,Delhi,Consumer,2023-03-28
+554,Delhi,Small Business,2023-09-04
+555,Kolkata,Consumer,2023-02-09
+556,Bengaluru,Consumer,2022-08-05
+557,Mumbai,Consumer,2022-05-23
+558,Delhi,Consumer,2023-08-12
+559,Mumbai,Enterprise,2023-09-11
+560,Mumbai,Consumer,2023-03-18
+561,Bengaluru,Consumer,2022-07-21
+562,Bengaluru,Small Business,2023-03-23
+563,Delhi,Small Business,2023-01-22
+564,Delhi,Consumer,2023-11-13
+565,Mumbai,Consumer,2022-06-16
+566,Pune,Enterprise,2023-02-02
+567,Delhi,Consumer,2022-01-26
+568,Mumbai,Consumer,2022-02-06
+569,Bengaluru,Consumer,2022-06-19
+570,Mumbai,Small Business,2023-01-29
+571,Delhi,Consumer,2023-01-14
+572,Mumbai,Small Business,2022-06-01
+573,Hyderabad,Consumer,2022-10-06
+574,Delhi,Consumer,2023-08-02
+575,Kolkata,Consumer,2022-07-31
+576,Bengaluru,Small Business,2023-02-28
+577,Mumbai,Consumer,2022-08-19
+578,Hyderabad,Consumer,2022-06-17
+579,Hyderabad,Consumer,2022-04-19
+580,Chennai,Small Business,2022-11-06
+581,Mumbai,Consumer,2022-05-30
+582,Hyderabad,Consumer,2023-09-04
+583,Chennai,Consumer,2023-08-26
+584,Delhi,Consumer,2023-04-03
+585,Bengaluru,Consumer,2023-03-28
+586,,Consumer,2023-03-03
+587,Delhi,Consumer,2022-10-20
+588,Chennai,Consumer,2022-06-23
+589,  mumbai ,Consumer,2023-02-24
+590,Chennai,Consumer,2023-04-30
+591,Bengaluru,Small Business,2022-01-30
+592,Bengaluru,Consumer,2022-08-03
+593,Mumbai,Consumer,2023-07-09
+594,Delhi,Small Business,2022-10-17
+595,Hyderabad,Small Business,2023-10-18
+596,Kolkata,Small Business,2023-06-20
+597,Mumbai,Consumer,2023-03-13
+598,Mumbai,Consumer,2023-01-17
+599,Mumbai,Consumer,2023-07-27
+600,Bengaluru,Consumer,2022-01-22
+601,Hyderabad,Consumer,2023-07-23
+602,Delhi,Consumer,2023-08-22
+603,Bengaluru,Consumer,2022-08-16
+604,Bengaluru,Consumer,2022-10-27
+605,Chennai,Consumer,2023-11-05
+606,Mumbai,Small Business,2022-12-05
+607,Mumbai,Consumer,2022-12-30
+608,Bengaluru,Consumer,2023-09-05
+609,Delhi,Consumer,2023-01-18
+610,Delhi,Small Business,2023-05-23
+611,Hyderabad,Consumer,2022-05-22
+612,Hyderabad,Consumer,2022-09-28
+613,Mumbai,Consumer,2023-09-04
+614,Bengaluru,Consumer,2022-01-03
+615,Hyderabad,Consumer,2023-10-03
+616,Kolkata,Enterprise,2022-08-28
+617,Mumbai,Consumer,2022-09-24
+618,Chennai,Small Business,2023-05-08
+619,Mumbai,Consumer,2023-01-18
+620,Hyderabad,Small Business,2022-06-25
+621,Pune,Small Business,2023-08-03
+622,Kolkata,Small Business,2022-07-10
+623,Pune,Small Business,2023-02-04
+624,Mumbai,Small Business,2022-02-27
+625,Pune,Consumer,2023-06-19
+626,Delhi,Consumer,2022-01-25
+627,Chennai,Small Business,2023-11-14
+628,Mumbai,Small Business,2023-03-28
+629,Delhi,Enterprise,2022-10-28
+630,Pune,Consumer,2023-11-20
+631,Mumbai,Consumer,2023-09-22
+632,Pune,Small Business,2022-06-10
+633,Hyderabad,Consumer,2022-04-19
+634,Hyderabad,Small Business,2022-08-23
+635,Chennai,Consumer,2023-06-13
+636,Bengaluru,Consumer,2022-03-01
+637,Mumbai,Consumer,2023-03-20
+638,  mumbai ,Consumer,2023-09-05
+639,Delhi,Consumer,2022-04-14
+640,Mumbai,Consumer,2022-02-24
+641,Hyderabad,Small Business,2023-03-19
+642,Mumbai,Small Business,2022-10-21
+643,Mumbai,Consumer,2023-08-19
+644,Kolkata,Consumer,2022-06-29
+645,Chennai,Enterprise,2022-04-04
+646,Delhi,Consumer,2022-10-03
+647,Delhi,Small Business,2022-08-07
+648,Chennai,Consumer,2022-12-08
+649,Pune,Consumer,2022-10-30
+650,Delhi,Consumer,2023-06-21
+651,Bengaluru,Consumer,2022-02-01
+652,Chennai,Enterprise,2023-01-30
+653,Mumbai,Consumer,2023-04-15
+654,Kolkata,Enterprise,2023-04-14
+655,Pune,Small Business,2022-12-16
+656,Mumbai,Small Business,2022-01-09
+657,Chennai,Small Business,2023-08-24
+658,Mumbai,Enterprise,2022-12-14
+659,Bengaluru,Consumer,2023-11-27
+660,Pune,Enterprise,2023-01-22
+661,Delhi,Consumer,2022-07-04
+662,Chennai,Consumer,2022-01-16
+663,  mumbai ,Enterprise,2022-08-19
+664,Mumbai,Consumer,2023-11-11
+665,Mumbai,Consumer,2022-04-29
+666,Mumbai,Small Business,2023-07-15
+667,Pune,Consumer,2023-01-25
+668,,Small Business,2022-03-13
+669,Bengaluru,Consumer,2023-06-27
+670,Chennai,Small Business,2023-11-27
+671,Chennai,Consumer,2022-01-25
+672,Mumbai,Small Business,2022-10-02
+673,Delhi,Small Business,2022-01-20
+674,Bengaluru,Consumer,2022-05-10
+675,Delhi,Enterprise,2023-04-01
+676,Bengaluru,Enterprise,2022-05-27
+677,Bengaluru,Consumer,2022-09-13
+678,Hyderabad,Enterprise,2022-03-07
+679,Delhi,Enterprise,2022-06-16
+680,Delhi,Consumer,2023-05-06
+681,Delhi,Small Business,2022-12-03
+682,,Enterprise,2023-08-06
+683,Pune,Small Business,2022-04-21
+684,Bengaluru,Consumer,2022-01-28
+685,Kolkata,Consumer,2023-09-19
+686,Chennai,Consumer,2022-06-22
+687,Delhi,Consumer,2023-08-11
+688,Delhi,Consumer,2022-01-08
+689,Hyderabad,Consumer,2023-10-04
+690,Bengaluru,Consumer,2022-08-13
+691,Mumbai,Consumer,2022-02-19
+692,Pune,Consumer,2022-06-02
+693,Delhi,Consumer,2023-07-10
+694,Hyderabad,Enterprise,2022-01-11
+695,Hyderabad,Consumer,2023-09-10
+696,Kolkata,Consumer,2023-04-29
+697,Hyderabad,Small Business,2022-11-24
+698,Kolkata,Small Business,2022-07-22
+699,,Consumer,2022-09-29
+700,Delhi,Small Business,2022-07-27
+701,Mumbai,Consumer,2023-11-08
+702,Chennai,Enterprise,2023-09-18
+703,Mumbai,Consumer,2022-07-05
+704,Bengaluru,Consumer,2022-02-28
+705,Bengaluru,Consumer,2022-03-13
+706,Chennai,Consumer,2023-05-04
+707,Delhi,Consumer,2023-02-15
+708,Mumbai,Consumer,2023-01-08
+709,Delhi,Consumer,2023-09-11
+710,Mumbai,Consumer,2022-04-11
+711,Delhi,Consumer,2022-09-10
+712,Pune,Consumer,2022-08-28
+713,Mumbai,Consumer,2022-08-25
+714,Kolkata,Small Business,2022-05-30
+715,Bengaluru,Enterprise,2022-03-08
+716,Delhi,Consumer,2023-07-13
+717,Chennai,Consumer,2023-08-06
+718,Mumbai,Consumer,2023-09-06
+719,Delhi,Consumer,2022-07-23
+720,Kolkata,Consumer,2023-06-08
+721,Delhi,Consumer,2023-06-23
+722,Hyderabad,Consumer,2022-10-20
+723,Mumbai,Consumer,2023-06-20
+724,Bengaluru,Small Business,2023-01-31
+725,Pune,Small Business,2023-11-18
+726,Mumbai,Small Business,2022-04-14
+727,Delhi,Small Business,2022-01-18
+728,  mumbai ,Consumer,2023-04-10
+729,Pune,Consumer,2022-02-22
+730,Mumbai,Consumer,2022-12-09
+731,Bengaluru,Consumer,2023-04-22
+732,Kolkata,Consumer,2022-02-01
+733,Delhi,Consumer,2022-11-23
+734,Hyderabad,Enterprise,2022-01-22
+735,Mumbai,Consumer,2023-01-23
+736,Bengaluru,Consumer,2023-09-21
+737,Bengaluru,Consumer,2023-01-22
+738,  mumbai ,Small Business,2023-09-24
+739,Hyderabad,Consumer,2022-03-10
+740,Hyderabad,Consumer,2022-12-08
+741,Hyderabad,Consumer,2023-03-08
+742,Chennai,Consumer,2022-07-24
+743,Chennai,Small Business,2022-05-28
+744,Delhi,Enterprise,2022-07-09
+745,Chennai,Consumer,2022-10-19
+746,Bengaluru,Consumer,2023-08-10
+747,Delhi,Small Business,2022-11-16
+748,Mumbai,Consumer,2023-10-19
+749,Hyderabad,Consumer,2023-05-05
+750,Pune,Consumer,2022-03-01
+751,Mumbai,Consumer,2022-10-25
+752,Pune,Consumer,2023-09-07
+753,Mumbai,Small Business,2022-07-30
+754,Delhi,Consumer,2022-02-03
+755,Pune,Consumer,2022-11-13
+756,Pune,Small Business,2022-12-14
+757,Mumbai,Consumer,2022-03-31
+758,Mumbai,Consumer,2023-07-10
+759,Pune,Consumer,2022-09-05
+760,Chennai,Consumer,2023-08-21
+761,Hyderabad,Small Business,2022-01-05
+762,Delhi,Small Business,2022-11-29
+763,Pune,Consumer,2022-08-15
+764,Hyderabad,Consumer,2023-06-22
+765,Chennai,Consumer,2022-04-18
+766,Bengaluru,Enterprise,2022-08-22
+767,,Small Business,2022-04-10
+768,,Enterprise,2023-06-07
+769,Mumbai,Small Business,2022-12-11
+770,Delhi,Small Business,2023-05-17
+771,Hyderabad,Consumer,2022-07-11
+772,Chennai,Small Business,2023-02-02
+773,Bengaluru,Consumer,2023-03-30
+774,Hyderabad,Small Business,2022-08-10
+775,Mumbai,Small Business,2022-08-05
+776,Bengaluru,Consumer,2022-12-04
+777,Bengaluru,Consumer,2023-03-20
+778,Bengaluru,Consumer,2022-12-30
+779,Mumbai,Consumer,2022-06-08
+780,Pune,Small Business,2023-08-22
+781,Pune,Consumer,2023-07-28
+782,Pune,Consumer,2022-06-04
+783,Hyderabad,Consumer,2023-06-09
+784,Bengaluru,Small Business,2023-10-02
+785,Chennai,Consumer,2022-03-07
+786,Pune,Small Business,2023-08-07
+787,Chennai,Enterprise,2022-04-14
+788,Bengaluru,Consumer,2023-09-27
+789,Hyderabad,Small Business,2022-11-24
+790,Mumbai,Consumer,2022-04-11
+791,Mumbai,Consumer,2023-05-19
+792,Kolkata,Consumer,2022-09-01
+793,Delhi,Consumer,2023-06-04
+794,Mumbai,Consumer,2023-05-01
+795,Pune,Small Business,2022-01-13
+796,Kolkata,Consumer,2022-12-14
+797,Hyderabad,Consumer,2022-06-20
+798,Kolkata,Small Business,2022-12-29
+799,Kolkata,Enterprise,2023-06-13
+800,Bengaluru,Consumer,2022-04-22
